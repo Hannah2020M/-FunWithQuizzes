@@ -1,0 +1,27 @@
+studioFunWithQuizzes2022may2MonLC
+C:\Users\h19sl\Documents\2javaProjects\java-practice\Ch1setupJava\studios\src\com\FunWithQuizzes\extraFIlesFunWithQuizzes
+C:\Users\h19sl\Documents\2javaProjects\java-practice\Ch1setupJava\studios\src\com\FunWithQuizzes
+
+==  7:59 PM 5/2/2022 ==++++++++++==================
+package com.company;
+import java.util.Scanner;
+import java.util.*;
+
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+        System.out.println("Hello quiz !");
+        ArrayList<String> questionBank = new ArrayList<String>();
+        System.out.println(questionBank);
+        Scanner in = new Scanner(System.in);
+
+    }
+}
+OUTPUT
+"C:\Program Files\Java\jdk-15.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\lib\idea_rt.jar=52783:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\h19sl\Documents\2javaProjects\java-practice\Ch1setupJava\studios\src\com\FunWithQuizzes\out\production\FunWithQuizzes com.company.QuizRunner
+Hello quiz !
+[]
+
+Process finished with exit code 0
+====================+++++++==============================
